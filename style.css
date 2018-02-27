@@ -1,0 +1,10 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+h1{
+	text-align: center;
+	text-shadow: 2px 2px 5px auto;
+	color: teal;
+}
